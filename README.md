@@ -3,4 +3,4 @@ This program is a simple memory management and allocation system. It was assumed
 
 To Run:
 1. Download the files 
-2. Run the $ make command
+2. Run the '$ make && ./mymemory' command in the terminal
